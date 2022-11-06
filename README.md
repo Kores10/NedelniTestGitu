@@ -1,0 +1,2 @@
+# NedelniTestGitu
+zkousim si git
